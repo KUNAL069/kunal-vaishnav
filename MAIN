@@ -1,0 +1,27 @@
+<!doctype html>
+
+<html lang="english">
+    <head>
+        <meta charset="utf-8">
+
+        <title>SCAMMED</title>
+
+        <!-- Load external CSS styles -->
+        <link rel="stylesheet" href="styles.css">
+
+    </head>
+
+    <body style="background-color:powderblue;">
+
+        <h1 style="font-size:300%;" style="color:blue;" style="text-align:center;"><ins><B><i>WELCOME!!</h1>
+        <hr>
+        
+        <!-- Load external JavaScript -->
+        <script src="scripts.js"></script>
+        
+     <h3 style="text-align:center;"><i> <!-- great text -->HEY! VERY HAPPY TO SEE YOU HERE THANK YOU....(FROM KUNAL)</h3>
+   
+   
+    </body>
+
+</html>
